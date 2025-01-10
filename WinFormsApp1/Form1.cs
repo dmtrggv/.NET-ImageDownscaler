@@ -54,9 +54,10 @@ public partial class Form1 : Form
             btnCancel.Enabled = true;
             progressBar.Value = 0;
 
+            int newPercent = 100 - Int32.Parse(txtFactor.Text);
             string outputFilePath = (
                 Path.Combine(Path.GetDirectoryName(txtFilePath.Text),
-                $"(Downscaled {txtFactor.Text}% of original) {Path.GetFileName(txtFilePath.Text)}")
+                $"({newPercent}% downscaled) {Path.GetFileName(txtFilePath.Text)}")
             );
 
             Bitmap inputImage = new Bitmap(txtFilePath.Text);

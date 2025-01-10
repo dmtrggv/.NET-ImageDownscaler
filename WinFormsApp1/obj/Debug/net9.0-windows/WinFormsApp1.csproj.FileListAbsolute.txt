@@ -26,3 +26,4 @@ C:\Users\Сиси\RiderProjects\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windo
 C:\Users\Сиси\RiderProjects\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
 C:\Users\Сиси\RiderProjects\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Сиси\RiderProjects\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
+C:\Users\Сиси\RiderProjects\WinFormsApp1\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json
