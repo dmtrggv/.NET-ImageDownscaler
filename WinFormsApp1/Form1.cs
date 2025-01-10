@@ -55,9 +55,9 @@ public partial class Form1 : Form
             progressBar.Value = 0;
 
             int newPercent = 100 - Int32.Parse(txtFactor.Text);
-            string outputFilePath = (
-                Path.Combine(Path.GetDirectoryName(txtFilePath.Text),
-                $"({newPercent}% downscaled) {Path.GetFileName(txtFilePath.Text)}")
+            string outputFilePath = Path.Combine(
+                Path.GetDirectoryName(txtFilePath.Text),
+                $"({newPercent}% downscaled) {Path.GetFileName(txtFilePath.Text)}"
             );
 
             Bitmap inputImage = new Bitmap(txtFilePath.Text);
