@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сиси\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\dmtrk\\RiderProjects\\.NET-ImageDownscaler\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сиси\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\dmtrk\\RiderProjects\\.NET-ImageDownscaler\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сиси\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\dmtrk\\RiderProjects\\.NET-ImageDownscaler\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\Users\\Сиси\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\Сиси\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сиси\\RiderProjects\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\dmtrk\\RiderProjects\\.NET-ImageDownscaler\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\dmtrk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dmtrk\\RiderProjects\\.NET-ImageDownscaler\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Сиси\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dmtrk\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Сиси\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
